@@ -24,7 +24,7 @@ twitter:
 description: Kim Bente is a PhD student at the School of Computer Science, University of Sydney, supervised by Prof. Fabio Ramos and A/Prof. Roman Marchant. Kim is interested in using probabilistic machine learning for spatial and temporal modelling evolving around Antarctic science. 
 author: Kim Bente
 url: https://kimbente.github.io
-logo: /assets/images/kim_profile.jpg
+logo: "/assets/images/kim_profile.jpg"
 
 # Reading Files
 include:

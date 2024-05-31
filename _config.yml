@@ -13,17 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alex Hernandez-Garcia
-tagline: Machine learning and computational neuroscience
-email: alex.hernandez-garcia@mila.quebec
-twitter_username: alexhdezgcia
-github_username:  alexhernandezgarcia
+
+title: Kim Bente
+tagline: machine learning for climate
+email: kim.bente@sydney.edu.au
+twitter_username: bente_kim
+github_username:  kimbente
 twitter:
-  - username: alexhdezgcia
-description: Alex Hernandez-Garcia is a postdoc at Mila (Montreal), working with Prof. Yoshua Bengio. He is interested in the fundamental aspects of learning, in both brains and machines, as well as in applications of machine learning for social good, like fighting climate change. 
-author: Alex Hernandez-Garcia
-url: https://alexhernandezgarcia.github.io
-logo: /assets/images/logo1.png
+  - username: kimbente
+description: Kim Bente is a PhD student at the School of Computer Science, University of Sydney, supervised by Prof. Fabio Ramos and A/Prof. Roman Marchant. Kim is interested in using probabilistic machine learning for spatial and temporal modelling evolving around Antarctic science. 
+author: Kim Bente
+url: https://kimbente.github.io
+logo: /assets/images/kim_profile.jpg
 
 # Reading Files
 include:
